@@ -1,9 +1,9 @@
 # ResultAnalyzer_python
 Student Manangement system using PyQt5 and sqlite3
 
-<img src = "screenshots/main.png" width = "100" height = "100">
-<img src = "screenshots/admin.png" width = "100" height = "100">
-<img src = "screenshots/student_login.png" width = "100" height = "100">
-<img src = "screenshots/student.png" width = "100" height = "100">
-<img src = "screenshots/analyze.png"width = "100" height = "100">
-<img src = "screenshots/db.png" width = "100" height = "100">
+<img src = "screenshots/main.png" width = "400" height = "400">
+<img src = "screenshots/admin.png" width = "400" height = "400">
+<img src = "screenshots/student_login.png" width = "400" height = "400">
+<img src = "screenshots/student.png" width = "400" height = "400">
+<img src = "screenshots/analyze.png"width = "400" height = "400">
+<img src = "screenshots/db.png" width = "400" height = "400">
